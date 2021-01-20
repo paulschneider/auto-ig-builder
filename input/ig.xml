@@ -2,7 +2,7 @@
 <!-- Start by finding all references to "myig" and updating to appropriate text for your IG, including changing realm -->
 <ImplementationGuide xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../input-cache/schemas/R5/fhir-single.xsd">
   <id value="example.fhir.uv.spark-implementation-guide"/>
-<!--  <extension url="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/tools/StructureDefinition/igpublisher-spreadsheet">
+<!--  <extension url="http://hl7.org/fhir/fhir/tools/StructureDefinition/igpublisher-spreadsheet">
     <valueString value="resources-spreadsheet.xml"/>
   </extension>-->
   <url value="http://hl7.org/fhir"/>
@@ -17,7 +17,7 @@
     <telecom>
       <!-- Or whatever URL and/or email address(es) are appropriate -->
       <system value="url"/>
-      <value value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/Special/committees/[something]"/>
+      <value value="http://hl7.org/fhir/Special/committees/[something]"/>
     </telecom>
   </contact>
   <description value="A brief description of what Spark Implemenatation Guide is about (probably the same text as in your readme)"/>

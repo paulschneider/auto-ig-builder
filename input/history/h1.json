@@ -4,7 +4,7 @@
   "type" : "collection",
   "entry" : [
     {
-      "fullUrl" : "https://build.fhir.org/ig/paulschneider/auto-ig-builder/Provenance/h1-1",
+      "fullUrl" : "http://hl7.org/fhir/Provenance/h1-1",
       "resource" : {
         "resourceType" : "Provenance",
         "id" : "h1-1",

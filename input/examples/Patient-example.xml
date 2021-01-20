@@ -8,9 +8,9 @@ test comment for display
 <Patient xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
   <id value="example"/>
   <meta>
-    <profile value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/StructureDefinition/mypatient"/>
+    <profile value="http://hl7.org/fhir/StructureDefinition/mypatient"/>
   </meta>
-  <extension url="https://build.fhir.org/ig/paulschneider/auto-ig-builder/StructureDefinition/ext-myExtension">
+  <extension url="http://hl7.org/fhir/StructureDefinition/ext-myExtension">
     <valueBoolean value="false"/>
   </extension>
   <name>

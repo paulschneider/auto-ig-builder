@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Library xmlns="http://hl7.org/fhir">
-  <url value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/Library/example-sql"/>
+  <url value="http://hl7.org/fhir/Library/example-sql"/>
   <version value="1.0.0"/>
   <name value="ExampleLibrary"/>
   <title value="Example Library"/>
