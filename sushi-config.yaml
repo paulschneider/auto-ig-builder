@@ -5,17 +5,17 @@
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: fish
 canonical: http://example.org/fhir/fish
-version: 0.1.0
-name: FishImplementationGuide
-title: Fish Implementation Guide
+version: 0.0.1
+name: SparkImplemenatationGuide
+title: Spark Implemenatation Guide
 status: draft
-publisher: James Tuna
+publisher: Paul Schneider
 contact:
-  - name: Bill Cod
+  - name: Paul Schneider
     telecom:
       - system: email
-        value: cod@reef.gov
-description: An example of how FSH can be used to create an IG about fish
+        value: paul.schneider@minfos.com.au
+description: This is the Spark implementation guide
 license: CC0-1.0
 fhirVersion: 4.0.1
 parameters:

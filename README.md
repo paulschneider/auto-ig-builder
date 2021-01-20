@@ -20,3 +20,8 @@ To build locally the are a number of tools and steps.
 ### Commands
 
 * Run ```npm run build```
+
+
+## Resources
+
+* https://fshschool.org/docs/tutorials/basic/
