@@ -100,7 +100,7 @@
         <title value="Spark Implemenatation Guide Home Page"/>
         <generation value="html"/>
       </page>
-      <page>
+      <!-- <page>
         <nameUrl value="background.html"/>
         <title value="Background"/>
         <generation value="html"/>
@@ -119,7 +119,7 @@
         <nameUrl value="changes.html"/>
         <title value="IG Change History"/>
         <generation value="html"/>
-      </page>
+      </page> -->
     </page>
     <!-- copyright year is a mandatory parameter -->
     <parameter>
@@ -131,7 +131,7 @@
       <code value="releaselabel"/>
       <value value="CI Build"/>
     </parameter>
-    <parameter>
+    <!-- <parameter>
       <code value="find-other-resources"/>
       <value value="true"/>
     </parameter>
@@ -146,7 +146,7 @@
     <parameter>
       <code value="path-liquid"/>
       <value value="templates\liquid"/>
-    </parameter>
+    </parameter> -->
 <!-- Uncomment one or more of these if you want to limit which syntaxes are supported or want to disable the display of mappings
     <parameter>
       <code value="excludexml"/>
