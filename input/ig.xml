@@ -5,7 +5,7 @@
 <!--  <extension url="http://hl7.org/fhir/tools/StructureDefinition/igpublisher-spreadsheet">
     <valueString value="resources-spreadsheet.xml"/>
   </extension>-->
-  <url value="http://hl7.org/fhir/uv/spark-implementation-guide/ImplementationGuide/example.fhir.uv.spark-implementation-guide"/>
+  <url value="http://hl7.org/fhir/uv/spark-implementation-guide"/>
   <!-- This version will propagate to all artifacts unless the "propagate-version" extension is overridden -->
   <version value="0.2.0"/>
   <name value="SparkImplementationGuide"/>
@@ -75,7 +75,7 @@
       </reference>
       <name value="Simple patient example"/>
       <description value="A simple example showing how examples are defined and referenced"/>
-      <exampleCanonical value="http://hl7.org/fhir/uv/spark-implementation-guide/StructureDefinition/mypatient"/>
+      <exampleCanonical value="http://hl7.org/fhir/uv/spark-implementation-guide"/>
     </resource>
     <resource>
       <reference>
