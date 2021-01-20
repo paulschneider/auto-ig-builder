@@ -1,0 +1,18 @@
+{
+  "ImplementationGuide/example.fhir.uv.spark-implementation-guide": {
+    "history": false,
+    "index": 0,
+    "source": "/Users/paulschneider/Sites/minfos/implementation-guide/input/ig.xml",
+    "url": "http://hl7.org/fhir",
+    "name": "SparkImplementationGuide",
+    "title": "Spark Implemenatation Guide",
+    "version": "0.2.0",
+    "date": "2021-01-20T15:42:48+11:00",
+    "status": {
+      "class": "colsd",
+      "owner": "HL7 International - [Some] Work Group",
+      "link": "http://hl7.org/fhir/Special/committees/[something]",
+      "status": "Draft"
+    }
+  }
+}

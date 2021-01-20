@@ -1,0 +1,13 @@
+{
+  "package": "example.fhir.uv.spark-implementation-guide",
+  "version": "0.2.0",
+  "fhirVersion": "4.0.1",
+  "jurisdiction": "001",
+  "extensions": [],
+  "profiles": {},
+  "usage": {
+    "http://hl7.org/fhir/tools/StructureDefinition/ig-parameter": [
+      "ImplementationGuide.definition"
+    ]
+  }
+}
