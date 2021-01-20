@@ -29,8 +29,9 @@ releaseLabel: ci-build
 # │  To use a provided input/includes/menu.xml file, delete the "menu" property below.             │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
-  IG Home: index.html
+  Home: index.html
   Table of Contents: toc.html
+  Background: background.html
   Artifacts Summary: artifacts.html
   Other Resources:
     "FHIR Spec ": new-tab {{site.data.fhir.path}}index.html

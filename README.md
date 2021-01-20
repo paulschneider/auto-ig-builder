@@ -1,9 +1,22 @@
-# FSH School Basic Tutorial
+# Implementation Guide
 
-The source code for the basic tutorial examples in FSH School.
+This is our Implementation Guide for our FHIR resources.
 
-For more information, see the [FSH School Basic Tutorial](https://fshschool.github.io/tutorials/basic).
+## Installation
 
-When updates are to be published (incorporated into FSH School), download the zip from the master
-branch, and put it into the content/tutorials/basic/ directory of the
-[FSHSchool/site GitHub repository]().
+Take the following actions to get set up:
+
+* Clone this repository
+* Run NPM install
+
+## Local Builds
+
+To build locally the are a number of tools and steps.
+### Requirements
+* [Ruby](https://www.ruby-lang.org/en/documentation/installation)
+* [Jekyll](https://jekyllrb.com/docs/installation)
+* [Sushi](https://github.com/FHIR/sushi) - globally installed
+
+### Commands
+
+* Run ```npm run build```

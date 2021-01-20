@@ -1,24 +1,24 @@
 {
   "resourceType": "ImplementationGuide",
-  "id": "fish",
-  "url": "http://example.org/fhir/fish/ImplementationGuide/fish",
-  "version": "0.1.0",
-  "name": "FishImplementationGuide",
-  "title": "Fish Implementation Guide",
+  "id": "fhir.minfos.spark.r4",
+  "url": "http://fhir.org/guides/minfos/spark/ImplementationGuide/fhir.minfos.sprk.r4",
+  "version": "0.0.1",
+  "name": "SparkImplementationGuide",
+  "title": "Spark Implemenatation Guide",
   "status": "draft",
   "contact": [
     {
-      "name": "Bill Cod",
+      "name": "Paul Schneider",
       "telecom": [
         {
           "system": "email",
-          "value": "cod@reef.gov"
+          "value": "paul.schneider@minfos.com.au"
         }
       ]
     }
   ],
-  "description": "An example of how FSH can be used to create an IG about fish",
-  "packageId": "fish",
+  "description": "This is the Spark implementation guide",
+  "packageId": "sprk-r4-01",
   "license": "CC0-1.0",
   "fhirVersion": [
     "4.0.1"
@@ -51,13 +51,18 @@
           "nameUrl": "index.html",
           "title": "Home",
           "generation": "markdown"
+        },
+        {
+          "nameUrl": "background.html",
+          "title": "Background",
+          "generation": "markdown"
         }
       ]
     },
     "parameter": [
       {
         "code": "copyrightyear",
-        "value": "2020+"
+        "value": "2021+"
       },
       {
         "code": "releaselabel",
