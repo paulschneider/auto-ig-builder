@@ -5,12 +5,12 @@ test comment for display
 
 -->
 
-<Patient xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
+<Patient xmlns="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
   <id value="example"/>
   <meta>
-    <profile value="http://hl7.org/fhir/uv/spark-implementation-guide/StructureDefinition/mypatient"/>
+    <profile value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/StructureDefinition/mypatient"/>
   </meta>
-  <extension url="http://hl7.org/fhir/uv/spark-implementation-guide/StructureDefinition/ext-myExtension">
+  <extension url="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/StructureDefinition/ext-myExtension">
     <valueBoolean value="false"/>
   </extension>
   <name>

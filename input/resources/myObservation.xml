@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<StructureDefinition xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
+<StructureDefinition xmlns="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir ../../input-cache/schemas/R5/fhir-single.xsd">
   <id value="myObservation"/>
-  <url value="http://hl7.org/fhir/uv/spark-implementation-guide/StructureDefinition/myObservation"/>
+  <url value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/StructureDefinition/myObservation"/>
   <name value="MyObservation"/>
   <title value="My Observation Profile"/>
   <status value="draft"/>
@@ -10,7 +10,7 @@
   <kind value="resource"/>
   <abstract value="false"/>
   <type value="Observation"/>
-  <baseDefinition value="http://hl7.org/fhir/StructureDefinition/Observation"/>
+  <baseDefinition value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/StructureDefinition/Observation"/>
   <derivation value="constraint"/>
   <differential>
     <element id="Observation.basedOn">
@@ -21,12 +21,12 @@
       <path value="Observation.partOf"/>
       <type>
         <code value="Reference"/>
-        <targetProfile value="http://hl7.org/fhir/StructureDefinition/Procedure">
-          <extension url="http://hl7.org/fhir/StructureDefinition/elementdefinition-type-must-support">
+        <targetProfile value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/StructureDefinition/Procedure">
+          <extension url="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/StructureDefinition/elementdefinition-type-must-support">
             <valueBoolean value="true"/>
           </extension>
         </targetProfile>
-        <targetProfile value="http://hl7.org/fhir/StructureDefinition/Immunization"/>
+        <targetProfile value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/StructureDefinition/Immunization"/>
       </type>
       <mustSupport value="true"/>
     </element>
@@ -43,9 +43,9 @@
       <path value="Observation.subject"/>
       <type>
         <code value="Reference"/>
-        <targetProfile value="http://hl7.org/fhir/StructureDefinition/Patient">
+        <targetProfile value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/StructureDefinition/Patient">
           <!-- this is an error - it is meaningless unless the element itself is must-support -->
-          <extension url="http://hl7.org/fhir/StructureDefinition/elementdefinition-type-must-support">
+          <extension url="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/StructureDefinition/elementdefinition-type-must-support">
             <valueBoolean value="true"/>
           </extension>
         </targetProfile>
@@ -58,7 +58,7 @@
     <element id="Observation.value[x]">
       <path value="Observation.value[x]"/>
       <type>
-        <extension url="http://hl7.org/fhir/StructureDefinition/elementdefinition-type-must-support">
+        <extension url="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/StructureDefinition/elementdefinition-type-must-support">
           <valueBoolean value="true"/>
         </extension>
         <code value="Quantity"/>

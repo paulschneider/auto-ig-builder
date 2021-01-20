@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Library xmlns="http://hl7.org/fhir">
-  <url value="http://hl7.org/fhir/uv/spark-implementation-guide/Library/example-image"/>
+<Library xmlns="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir">
+  <url value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/Library/example-image"/>
   <version value="1.0.0"/>
   <name value="ExampleLibraryImage"/>
   <title value="Example Library Image"/>

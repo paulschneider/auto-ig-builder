@@ -905,7 +905,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s74"><Data ss:Type="String">author.reference</Data></Cell>
     <Cell ss:StyleID="s76" ss:HRef="http://http//hl7.org/Special/committees/[something]"><Data
-      ss:Type="String">http://http://hl7.org/Special/committees/[something]</Data></Cell>
+      ss:Type="String">http://https://build.fhir.org/ig/paulschneider/auto-ig-builder/Special/committees/[something]</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s74"><Data ss:Type="String">code</Data></Cell>
@@ -937,8 +937,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s74"><Data ss:Type="String">extension.uri</Data></Cell>
-    <Cell ss:StyleID="s79" ss:HRef="http://hl7.org/fhir/uv/spark-implementation-guide/StructureDefinition/ext-"><Data
-      ss:Type="String">http://hl7.org/fhir/uv/spark-implementation-guide/StructureDefinition/ext-</Data></Cell>
+    <Cell ss:StyleID="s79" ss:HRef="https://build.fhir.org/ig/paulschneider/auto-ig-builder/StructureDefinition/ext-"><Data
+      ss:Type="String">https://build.fhir.org/ig/paulschneider/auto-ig-builder/StructureDefinition/ext-</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
@@ -11152,7 +11152,7 @@
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">URI</Data><Comment ss:Author=""><ss:Data
        xmlns="http://www.w3.org/TR/REC-html40">        <Font html:Face="Tahoma"
-        x:Family="Swiss" html:Size="8" html:Color="#000000">Full URI for the code list.  (If not specified, defaults to http://hl7.org/fhir/ValueSet</Font>       </ss:Data></Comment><NamedCell
+        x:Family="Swiss" html:Size="8" html:Color="#000000">Full URI for the code list.  (If not specified, defaults to https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/ValueSet</Font>       </ss:Data></Comment><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s84"><Data ss:Type="String">Website/Email</Data><Comment
       ss:Author=""><ss:Data xmlns="http://www.w3.org/TR/REC-html40">        <Font

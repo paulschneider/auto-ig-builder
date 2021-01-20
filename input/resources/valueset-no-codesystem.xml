@@ -1,6 +1,6 @@
-<ValueSet xmlns="http://hl7.org/fhir">
+<ValueSet xmlns="https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir">
   <id value="valueset-no-codesystem"/> 
-  <url value="http://hl7.org/fhir/uv/spark-implementation-guide/ValueSet/valueset-no-codesystem"/> 
+  <url value="https://build.fhir.org/ig/paulschneider/auto-ig-builder/ValueSet/valueset-no-codesystem"/> 
   <name value="ValueSetWithNoCodeSystem"/>
   <status value="draft"/> 
   <experimental value="true"/> 
@@ -18,3 +18,4 @@
     </include> 
   </compose> 
 </ValueSet> 
+

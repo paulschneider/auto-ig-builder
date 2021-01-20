@@ -4,7 +4,7 @@
   "type" : "collection",
   "entry" : [
     {
-      "fullUrl" : "http://hl7.org/fhir/uv/spark-implementation-guide/Provenance/h1-1",
+      "fullUrl" : "https://build.fhir.org/ig/paulschneider/auto-ig-builder/fhir/Provenance/h1-1",
       "resource" : {
         "resourceType" : "Provenance",
         "id" : "h1-1",
