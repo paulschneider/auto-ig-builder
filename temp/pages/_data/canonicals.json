@@ -1,9 +1,0 @@
-[
-  {
-    "id": "example.fhir.uv.spark-implementation-guide",
-    "type": "ImplementationGuide",
-    "url": "http://hl7.org/fhir",
-    "version": "0.2.0",
-    "name": "SparkImplementationGuide"
-  }
-]

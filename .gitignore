@@ -10,3 +10,5 @@ build-and-deploy.sh
 fhir-ig-publisher.log
 template
 temp
+output
+vsts-build/**
