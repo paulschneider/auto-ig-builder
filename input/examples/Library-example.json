@@ -1,7 +1,7 @@
 {
   "resourceType" : "Library",
   "id": "example",
-  "url" : "http://build.fhir.org/ig/paulschneider/auto-ig-builder/Library/example",
+  "url" : "https://build.fhir.org/ig/paulschneider/auto-ig-builder/Library/example",
   "version" : "1.0.0",
   "name": "example",
   "title": "Example CQL Library",
