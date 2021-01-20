@@ -1,15 +1,23 @@
-### Introduction
+### Background
 
- What is this IG about (in patient/non-expert friendly terms).
+Fishkeeping is a popular hobby, practiced by aquarists, concerned with keeping fish in a home aquarium or garden pond. There is also a piscicultural fishkeeping industry, as a branch of agriculture.
 
- ### Technical Overview
+### Meet Shorty
 
- Additional detail/context setting for those who have significant background in the domain.  (Try to make as understandable as you can, but set important context).
+This is Shorty, the mascot for FHIR Shorthand. He's doing contortions to shape himself into an "S", for Shorthand.
 
- The main sections of this IG are:
+![Shorty the FSH](./Shorty.png)
 
- * [Background](background.html) - provides business context for the implementation guide and information that implementers should be familiar with before reading the remainder of the IG.  There could be multiple pages for this.
+### FHIR Shorthand Resources
 
-* [Detailed Specification](spec.html) - The actual stuff implementers are expected to do. (Could be multiple pages for this.)
+FHIR Shorthand calls currently are the second Thursday of every month at 9 am Eastern US Time. [Click here to join](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGJmYmVlM2UtYzVkZi00YWJjLWJlNzMtN2ZkYTVkYTA1Mzlk%40thread.v2/0?context=%7b%22Tid%22%3a%22c620dc48-1d50-4952-8b39-df4d54d74d82%22%2c%22Oid%22%3a%22f9a60b6f-fbcc-48d0-bc8e-d6d742b4b339%22%7d)
 
-* [Downloads](downloads.html) - The actual stuff implementers are expected to do. (Could be multiple pages for this.)
+[HL7 Confluence site](https://confluence.hl7.org/display/FHIRI/FHIR+Shorthand)
+
+[FHIR Shorthand Documentation](https://build.fhir.org/ig/HL7/fhir-shorthand) 
+
+[FHIR Shorthand documentation code repository](https://github.com/HL7/fhir-shorthand)
+
+[SUSHI code repository](https://github.com/FHIR/sushi)
+
+[Zulip](https://chat.fhir.org) channel: #shorthand
