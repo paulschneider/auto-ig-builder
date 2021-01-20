@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Start by finding all references to "myig" and updating to appropriate text for your IG, including changing realm -->
 <ImplementationGuide xmlns="http://hl7.org/fhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../input-cache/schemas/R5/fhir-single.xsd">
   <id value="fhir.minfos.sprk.r1"/>
   <url value="http://fhir.org/guides/minfos/spark/ImplementationGuide/fhir.minfos.sprk.r1"/>
-  <!-- This version will propagate to all artifacts unless the "propagate-version" extension is overridden -->
   <version value="0.0.1"/>
   <name value="SparkImplementationGuide"/>
   <title value="Spark Implemenatation Guide"/>
@@ -23,7 +21,7 @@
     <coding>
       <!-- This is the code for universal -->
       <system value="http://unstats.un.org/unsd/methods/m49/m49.htm"/>
-      <code value="001"/>
+      <code value="036"/>
       <!-- Change to this if the IG is country-specific
       <system value="http://unstats.un.org/unsd/methods/m49/m49.htm"/>
       <code value="001"/>
