@@ -49,7 +49,7 @@
         <title value="Home"/>
         <generation value="html"/>
       </page>
-      <!-- <page>
+      <page>
         <nameUrl value="background.html"/>
         <title value="Background"/>
         <generation value="html"/>
@@ -68,7 +68,7 @@
         <nameUrl value="changes.html"/>
         <title value="IG Change History"/>
         <generation value="html"/>
-      </page> -->
+      </page>
     </page>
     <!-- copyright year is a mandatory parameter -->
     <parameter>
