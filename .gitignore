@@ -3,6 +3,7 @@
 temp
 template
 output
+node_modules
 
 # Don't commit this because it's so large #
 ###########################################

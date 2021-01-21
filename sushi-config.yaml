@@ -32,6 +32,7 @@ menu:
   Home: index.html
   Table of Contents: toc.html
   Background: background.html
+  Downloads: downloads.html
   Artifacts Summary: artifacts.html
   Other Resources:
     "FHIR Spec ": new-tab {{site.data.fhir.path}}index.html

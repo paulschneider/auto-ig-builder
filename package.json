@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-local": "./_genonce.sh"
+    "preview": "node open-browser.js",
+    "build": "./_genonce.sh"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "fsh-sushi": "^1.1.0"
+    "fsh-sushi": "^1.1.0",
+    "open": "^7.3.1"
   }
 }

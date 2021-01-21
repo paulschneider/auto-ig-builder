@@ -1,9 +1,9 @@
 {
   "resourceType": "ImplementationGuide",
-  "id": "fhir.minfos.spark.r4",
-  "url": "http://fhir.org/guides/minfos/spark/ImplementationGuide/fhir.minfos.sprk.r4",
+  "id": "fish",
+  "url": "http://example.org/fhir/fish/ImplementationGuide/fish",
   "version": "0.0.1",
-  "name": "SparkImplementationGuide",
+  "name": "SparkImplemenatationGuide",
   "title": "Spark Implemenatation Guide",
   "status": "draft",
   "contact": [
@@ -18,7 +18,7 @@
     }
   ],
   "description": "This is the Spark implementation guide",
-  "packageId": "sprk-r4-01",
+  "packageId": "fish",
   "license": "CC0-1.0",
   "fhirVersion": [
     "4.0.1"
@@ -55,6 +55,11 @@
         {
           "nameUrl": "background.html",
           "title": "Background",
+          "generation": "markdown"
+        },
+        {
+          "nameUrl": "downloads.html",
+          "title": "Downloads",
           "generation": "markdown"
         }
       ]
